@@ -1,0 +1,20 @@
+h1{
+    color: crimson;
+    font-family: FontShafa2;
+}
+h2{
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: firebrick;
+    font-family: FontShafa;
+}
+@font-face {
+    font-family: FontShafa2;
+    src: url('cheeks/Cheeks.otf');
+}
+@font-face {
+    font-family: FontShafa;
+    src: url('fancake/Fancake.otf');
+}
